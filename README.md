@@ -40,6 +40,26 @@ npm run dev
 - Use the back button in the product details view to return to the product list.
 - Verify filtering, sorting, and searching still work as expected.
 
+# Product Listing Web App
+
+A responsive product listing page with filtering, searching, sorting, and category-based features, built using **React.js, HTML, CSS, and JavaScript**.
+
+## Live Demo  
+🔗 [View the App here](https://productlist-brown.vercel.app/)
+
+## Features
+- Responsive design
+- Sidebar filtering
+- Sorting options
+- Search functionality
+- Category-based product display
+
+## Tech Stack
+- React.js
+- HTML, CSS
+- JavaScript
+
+
 ## Feedback
 
 Please report any issues or suggestions for improvement.
